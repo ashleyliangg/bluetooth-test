@@ -1,0 +1,1 @@
+/* Building simple bluetooth app following this tutorial: https://blog.logrocket.com/build-bluetooth-app-chrome-bluetooth-web-api/ */
